@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589841600325.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1449357175",
+    "id" : "33CBC299",
+    "lastKnownWriteTime" : 1589841992,
+    "last_content_update" : 1589841992680,
+    "path" : "~/website_daniela/content/blog/2020-05-18-my-new-post.Rmd",
+    "project_path" : "content/blog/2020-05-18-my-new-post.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,49",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
