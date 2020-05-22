@@ -8,7 +8,22 @@ tags: []
 description: ''
 ---
  
- Something in here.
- 
- '''{python}
+Coding is cool.
+``` {R}
+library(reticulate)
+
+ cow<-"hook"
+```
+
+``` {python}
+school = "'em"
+print(r.cow, school)
+```
+
+``` {R}
+cat(c(cow, py$school))
+```
+
+
+
  ![](/blog/2020-05-18-my-new-post_files/lol4.JPG)

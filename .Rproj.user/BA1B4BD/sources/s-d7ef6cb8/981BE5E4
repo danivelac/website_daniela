@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3052680503",
+    "hash" : "0",
     "id" : "981BE5E4",
     "lastKnownWriteTime" : 1589841465,
     "last_content_update" : 1589841465616,
     "path" : "~/website_daniela/content/project2.Rmd",
     "project_path" : "content/project2.Rmd",
     "properties" : {
-        "cursorPosition" : "3,17",
-        "scrollLine" : "0"
+        "cursorPosition" : "26,0",
+        "scrollLine" : "15"
     },
     "relative_order" : 7,
     "source_on_save" : false,

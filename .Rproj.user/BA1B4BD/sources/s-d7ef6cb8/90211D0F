@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3664288348",
+    "hash" : "0",
     "id" : "90211D0F",
-    "lastKnownWriteTime" : 1589839998,
-    "last_content_update" : 1589839998471,
+    "lastKnownWriteTime" : 1589844705,
+    "last_content_update" : 1589844705845,
     "path" : "~/website_daniela/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "42,16",
-        "scrollLine" : "28"
+        "cursorPosition" : "43,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,

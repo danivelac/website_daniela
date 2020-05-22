@@ -1,1 +1,232 @@
 git add.[K .
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git commit -m "first try"
+[master (root-commit) 91ee722] first try
+ Committer: Daniela Vela <dcv396@educcomp01.ccbb.utexas.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 141 files changed, 9031 insertions(+)
+ create mode 100644 .Rproj.user/BA1B4BD/console06/3737ACAC
+ create mode 100644 .Rproj.user/BA1B4BD/console06/3737ACAC.env
+ create mode 100644 .Rproj.user/BA1B4BD/console06/INDEX001
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/3C8BB208
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/55B19620
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/6F00007B
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/8F324035
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/D35502E1
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/DFBFCCF0
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/F14CE2F5
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/F3B041F2
+ create mode 100644 .Rproj.user/BA1B4BD/sources/prop/INDEX
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/250C67B2
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/250C67B2-contents
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/33CBC299
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/33CBC299-contents
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/8B1BB78D
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/8B1BB78D-contents
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/90211D0F
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/90211D0F-contents
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/981BE5E4
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/981BE5E4-contents
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/9F647A67
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/9F647A67-contents
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/A8B9DDE4
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/A8B9DDE4-contents
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/DB0D49F3
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/DB0D49F3-contents
+ create mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/BE37402C-2020-05-18-my-new-post/1/BA1B4BDd7ef6cb8/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/BE37402C-2020-05-18-my-new-post/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/DAAAA0BD-project2/1/BA1B4BDd7ef6cb8/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/DAAAA0BD-project2/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 config.toml
+ create mode 100644 content/Project1.pdf
+ create mode 100644 content/blog/2020-05-18-my-new-post.Rmd
+ create mode 100644 content/blog/2020-05-18-my-new-post.html
+ create mode 100644 content/project2.Rmd
+ create mode 100644 content/project2.html
+ create mode 100644 content/projects.md
+ create mode 100644 index.Rmd
+ create mode 100644 public/404.html
+ create mode 100644 public/Project1.pdf
+ create mode 100644 public/Project2.Rmd
+ create mode 100644 public/blog/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 public/blog/2015-07-23-r-rmarkdown/index.html
+ create mode 100644 public/blog/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/blog/2020-05-18-my-new-post.Rmd
+ create mode 100644 public/blog/2020-05-18-my-new-post_files/lol4.JPG
+ create mode 100644 public/blog/creating-a-new-theme/index.html
+ create mode 100644 public/blog/goisforlovers/index.html
+ create mode 100644 public/blog/hugoisforlovers/index.html
+ create mode 100644 public/blog/index.html
+ create mode 100644 public/blog/index.xml
+ create mode 100644 public/blog/migrate-from-jekyll/index.html
+ create mode 100644 public/blog/my-new-post/index.html
+ create mode 100644 public/categories/development/index.html
+ create mode 100644 public/categories/development/index.xml
+ create mode 100644 public/categories/golang/index.html
+ create mode 100644 public/categories/golang/index.xml
+ create mode 100644 public/categories/index.html
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/projects/index.html
+ create mode 100644 public/categories/projects/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/css/main.css
+ create mode 100644 public/img/IMG_0703.JPG
+ create mode 100644 public/img/IMG_0708.JPG
+ create mode 100644 public/img/profile.png
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/docs.min.js
+ create mode 100644 public/js/ie10-viewport-bug-workaround.js
+ create mode 100644 public/js/main.js
+ create mode 100644 public/project2.Rmd
+ create mode 100644 public/project2/index.html
+ create mode 100644 public/projects/index.html
+ create mode 100644 public/resume PR.pdf
+ create mode 100644 public/resume.pdf
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/development/index.html
+ create mode 100644 public/tags/development/index.xml
+ create mode 100644 public/tags/go/index.html
+ create mode 100644 public/tags/go/index.xml
+ create mode 100644 public/tags/golang/index.html
+ create mode 100644 public/tags/golang/index.xml
+ create mode 100644 public/tags/hugo/index.html
+ create mode 100644 public/tags/hugo/index.xml
+ create mode 100644 public/tags/index.html
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/projects/index.html
+ create mode 100644 public/tags/projects/index.xml
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 public/tags/templates/index.html
+ create mode 100644 public/tags/templates/index.xml
+ create mode 100644 public/tags/themes/index.html
+ create mode 100644 public/tags/themes/index.xml
+ create mode 100644 static/blog/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 static/blog/2020-05-18-my-new-post_files/lol4.JPG
+ create mode 100644 static/img/IMG_0703.JPG
+ create mode 100644 static/img/IMG_0708.JPG
+ create mode 100644 static/img/profile.png
+ create mode 100644 static/resume.pdf
+ create mode 100644 themes/hugo-sustain/LICENSE.md
+ create mode 100644 themes/hugo-sustain/README.md
+ create mode 100644 themes/hugo-sustain/archetypes/default.md
+ create mode 100644 themes/hugo-sustain/exampleSite/config.toml
+ create mode 100644 themes/hugo-sustain/exampleSite/content/blog/creating-a-new-theme.md
+ create mode 100644 themes/hugo-sustain/exampleSite/content/blog/goisforlovers.md
+ create mode 100644 themes/hugo-sustain/exampleSite/content/blog/hugoisforlovers.md
+ create mode 100644 themes/hugo-sustain/exampleSite/content/blog/migrate-from-jekyll.md
+ create mode 100644 themes/hugo-sustain/exampleSite/content/projects.md
+ create mode 100644 themes/hugo-sustain/exampleSite/data/projects.yml
+ create mode 100644 themes/hugo-sustain/exampleSite/static/img/profile.png
+ create mode 100644 themes/hugo-sustain/images/screenshot.png
+ create mode 100644 themes/hugo-sustain/images/tn.png
+ create mode 100644 themes/hugo-sustain/layouts/404.html
+ create mode 100644 themes/hugo-sustain/layouts/_default/list.html
+ create mode 100644 themes/hugo-sustain/layouts/_default/projects.html
+ create mode 100644 themes/hugo-sustain/layouts/_default/single.html
+ create mode 100644 themes/hugo-sustain/layouts/index.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/disqus.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/footer.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/head.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/header.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/js.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/social.html
+ create mode 100644 themes/hugo-sustain/static/css/main.css
+ create mode 100644 themes/hugo-sustain/static/js/docs.min.js
+ create mode 100644 themes/hugo-sustain/static/js/ie10-viewport-bug-workaround.js
+ create mode 100644 themes/hugo-sustain/static/js/main.js
+ create mode 100644 themes/hugo-sustain/theme.toml
+ create mode 100644 website_daniela.Rproj
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git add origin "https://github.com/danivelac/website_danielaa.git[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit remote add origin https://github.com/danivelac/website_ddaniela.git
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin master
+Username for 'https://github.com': dam nivelac
+Password for 'https://danivelac@github.com': 
+Counting objects: 180, done.
+Delta compression using up to 16 threads.
+Compressing objects:   0% (1/153)   Compressing objects:   1% (2/153)   Compressing objects:   2% (4/153)   Compressing objects:   3% (5/153)   Compressing objects:   4% (7/153)   Compressing objects:   5% (8/153)   Compressing objects:   6% (10/153)   Compressing objects:   7% (11/153)   Compressing objects:   8% (13/153)   Compressing objects:   9% (14/153)   Compressing objects:  10% (16/153)   Compressing objects:  11% (17/153)   Compressing objects:  12% (19/153)   Compressing objects:  13% (20/153)   Compressing objects:  14% (22/153)   Compressing objects:  15% (23/153)   Compressing objects:  16% (25/153)   Compressing objects:  17% (27/153)   Compressing objects:  18% (28/153)   Compressing objects:  19% (30/153)   Compressing objects:  20% (31/153)   Compressing objects:  21% (33/153)   Compressing objects:  22% (34/153)   Compressing objects:  23% (36/153)   Compressing objects:  24% (37/153)   Compressing objects:  25% (39/153)   Compressing objects:  26% (40/153)   Compressing objects:  27% (42/153)   Compressing objects:  28% (43/153)   Compressing objects:  29% (45/153)   Compressing objects:  30% (46/153)   Compressing objects:  31% (48/153)   Compressing objects:  32% (49/153)   Compressing objects:  33% (51/153)   Compressing objects:  34% (53/153)   Compressing objects:  35% (54/153)   Compressing objects:  36% (56/153)   Compressing objects:  37% (57/153)   Compressing objects:  38% (59/153)   Compressing objects:  39% (60/153)   Compressing objects:  40% (62/153)   Compressing objects:  41% (63/153)   Compressing objects:  42% (65/153)   Compressing objects:  43% (66/153)   Compressing objects:  44% (68/153)   Compressing objects:  45% (69/153)   Compressing objects:  46% (71/153)   Compressing objects:  47% (72/153)   Compressing objects:  48% (74/153)   Compressing objects:  49% (75/153)   Compressing objects:  50% (77/153)   Compressing objects:  51% (79/153)   Compressing objects:  52% (80/153)   Compressing objects:  53% (82/153)   Compressing objects:  54% (83/153)   Compressing objects:  55% (85/153)   Compressing objects:  56% (86/153)   Compressing objects:  57% (88/153)   Compressing objects:  58% (89/153)   Compressing objects:  59% (91/153)   Compressing objects:  60% (92/153)   Compressing objects:  61% (94/153)   Compressing objects:  62% (95/153)   Compressing objects:  63% (97/153)   Compressing objects:  64% (98/153)   Compressing objects:  65% (100/153)   Compressing objects:  66% (101/153)   Compressing objects:  67% (103/153)   Compressing objects:  68% (105/153)   Compressing objects:  69% (106/153)   Compressing objects:  70% (108/153)   Compressing objects:  71% (109/153)   Compressing objects:  72% (111/153)   Compressing objects:  73% (112/153)   Compressing objects:  74% (114/153)   Compressing objects:  75% (115/153)   Compressing objects:  76% (117/153)   Compressing objects:  77% (118/153)   Compressing objects:  78% (120/153)   Compressing objects:  79% (121/153)   Compressing objects:  80% (123/153)   Compressing objects:  81% (124/153)   Compressing objects:  82% (126/153)   Compressing objects:  83% (127/153)   Compressing objects:  84% (129/153)   Compressing objects:  85% (131/153)   Compressing objects:  86% (132/153)   Compressing objects:  87% (134/153)   Compressing objects:  88% (135/153)   Compressing objects:  89% (137/153)   Compressing objects:  90% (138/153)   Compressing objects:  91% (140/153)   Compressing objects:  92% (141/153)   Compressing objects:  93% (143/153)   Compressing objects:  94% (144/153)   Compressing objects:  95% (146/153)   Compressing objects:  96% (147/153)   Compressing objects:  97% (149/153)   Compressing objects:  98% (150/153)   Compressing objects:  99% (152/153)   Compressing objects: 100% (153/153)   Compressing objects: 100% (153/153), done.
+Writing objects:   0% (1/180)   Writing objects:   1% (2/180)   Writing objects:   2% (4/180)   Writing objects:   3% (6/180)   Writing objects:   4% (8/180)   Writing objects:   5% (9/180)   Writing objects:   6% (11/180)   Writing objects:   7% (13/180)   Writing objects:   8% (15/180)   Writing objects:   9% (17/180)   Writing objects:  10% (18/180)   Writing objects:  11% (20/180)   Writing objects:  12% (22/180)   Writing objects:  14% (26/180)   Writing objects:  15% (27/180)   Writing objects:  16% (29/180)   Writing objects:  17% (31/180)   Writing objects:  18% (33/180)   Writing objects:  19% (35/180)   Writing objects:  20% (36/180)   Writing objects:  21% (38/180)   Writing objects:  22% (40/180)   Writing objects:  23% (42/180)   Writing objects:  24% (44/180)   Writing objects:  25% (45/180)   Writing objects:  26% (47/180)   Writing objects:  27% (49/180)   Writing objects:  28% (51/180)   Writing objects:  29% (53/180)   Writing objects:  30% (55/180)   Writing objects:  31% (56/180)   Writing objects:  32% (58/180)   Writing objects:  33% (60/180)   Writing objects:  35% (63/180)   Writing objects:  36% (65/180)   Writing objects:  37% (67/180)   Writing objects:  38% (69/180)   Writing objects:  39% (71/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  40% (72/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  41% (74/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  42% (76/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  43% (78/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  44% (80/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  45% (81/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  46% (83/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  47% (85/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  48% (88/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  49% (89/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  51% (92/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  52% (95/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  53% (96/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  54% (98/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  55% (99/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  56% (101/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  57% (103/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  58% (105/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  59% (107/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  60% (108/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  61% (110/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  62% (112/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  63% (114/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  64% (116/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  65% (117/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  66% (119/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  67% (121/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  68% (123/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  69% (125/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  70% (126/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  71% (128/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  72% (130/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  73% (132/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  74% (134/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  75% (135/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  76% (137/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  77% (139/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  78% (141/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  79% (143/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  80% (144/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  81% (146/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  82% (148/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  83% (150/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  84% (152/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  85% (153/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  86% (155/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  87% (157/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  88% (159/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  89% (161/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  90% (162/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  91% (164/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  92% (166/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  93% (168/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  94% (170/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  95% (171/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  96% (173/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  97% (175/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  98% (177/180), 3.09 MiB | 6.17 MiB/s   Writing objects:  99% (179/180), 3.09 MiB | 6.17 MiB/s   Writing objects: 100% (180/180), 3.09 MiB | 6.17 MiB/s   Writing objects: 100% (180/180), 9.44 MiB | 10.42 MiB/s, done.
+Total 180 (delta 46), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/46)[Kremote: Resolving deltas:   2% (1/46)[Kremote: Resolving deltas:  13% (6/46)[Kremote: Resolving deltas:  17% (8/46)[Kremote: Resolving deltas:  52% (24/46)[Kremote: Resolving deltas:  60% (28/46)[Kremote: Resolving deltas:  78% (36/46)[Kremote: Resolving deltas:  84% (39/46)[Kremote: Resolving deltas: 100% (46/46)[Kremote: Resolving deltas: 100% (46/46), done.[K
+To https://github.com/danivelac/website_daniela.git
+ * [new branch]      master -> master
+2020-05-1[K[K[K[K[K[K[K[K[Kgit push origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "first try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K[4Pls -a[K -agit add .commit -m "first try"[K[K[K[K[K[K[K[K[K[Kfinal try"
+On branch master
+Changes not staged for commit:
+	[31mmodified:   .Rproj.user/BA1B4BD/console06/3737ACAC[m
+	[31mmodified:   .Rproj.user/BA1B4BD/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/prop/3C8BB208[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/prop/55B19620[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/prop/6F00007B[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/prop/D35502E1[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/prop/DFBFCCF0[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/prop/F14CE2F5[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/prop/F3B041F2[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/250C67B2[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/250C67B2-contents[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/33CBC299[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/33CBC299-contents[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/8B1BB78D[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/90211D0F[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/981BE5E4[m
+	[31mdeleted:    .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/9F647A67[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/A8B9DDE4[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/DB0D49F3[m
+	[31mmodified:   .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/lock_file[m
+	[31mmodified:   .Rproj.user/shared/notebooks/BE37402C-2020-05-18-my-new-post/1/BA1B4BDd7ef6cb8/chunks.json[m
+	[31mmodified:   .Rproj.user/shared/notebooks/BE37402C-2020-05-18-my-new-post/1/s/chunks.json[m
+	[31mmodified:   content/blog/2020-05-18-my-new-post.Rmd[m
+	[31mmodified:   content/blog/2020-05-18-my-new-post.html[m
+	[31mmodified:   public/blog/2020-05-18-my-new-post.Rmd[m
+	[31mmodified:   public/blog/index.html[m
+	[31mmodified:   public/blog/index.xml[m
+	[31mmodified:   public/blog/my-new-post/index.html[m
+	[31mmodified:   public/categories/index.html[m
+	[31mmodified:   public/categories/index.xml[m
+	[31mmodified:   public/index.html[m
+	[31mmodified:   public/index.xml[m
+	[31mmodified:   public/sitemap.xml[m
+	[31mmodified:   public/tags/index.html[m
+	[31mmodified:   public/tags/index.xml[m
+	[31mdeleted:    static/blog/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png[m
+	[31mmodified:   themes/hugo-sustain/layouts/index.html[m
+	[31mmodified:   website_daniela.Rproj[m
+
+Untracked files:
+	[31m.gitignore[m
+	[31mcontent/blog/2015-07-23-r-rmarkdown.Rmd[m
+	[31mcontent/blog/2015-07-23-r-rmarkdown.html[m
+
+no changes added to commit
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git commit -m "final try"[3Ppush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "first try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/danivelac/website_danniela.git
+fatal: remote origin already exists.
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git remote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "final try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ppush origin master
+Username for 'https://github.com': danivelac
+Password for 'https://danivelac@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/danivelac/website_daniela.git/'
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "final try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ppush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "first try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K
