@@ -318,3 +318,36 @@ remote: Resolving deltas:   0% (0/32)[Kremote: Resolving deltas:   6% (2/32)[
 To https://github.com/danivelac/website_daniela.git
    91ee722..7d802a4  master -> master
 ]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin mastercommit -m "final try"add .[K
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git add .push origin mastercommit -m "final try"
+[master 917c854] final try
+ Committer: Daniela Vela <dcv396@educcomp01.ccbb.utexas.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 28 insertions(+)
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git commit -m "final try"add .[Kpush origin master
+Username for 'https://github.com': danie velac
+Password for 'https://danivelac@github.com': 
+remote: Repository not found.
+fatal: repository 'https://github.com/danivelac/website_daniela.git/' not found
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin mastercommit -m "final try"add .[Kpush origin mastercommit -m "final try"add .[Kpush origin mastercommit -m "final try"add .[Kpush origin masteradd .[Kpush origin mastercommit -m "final try"add .[Kpush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "final try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ppush origin mastercommit -m "final try"[3Ppush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "first try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K[4Pls -a[K
+config.toml  [0m[01;34mcontent[0m  index.Rmd  [01;34mpublic[0m  [01;34mstatic[0m  [01;34mthemes[0m  website_daniela.Rproj
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ lsgit push origin mastercommit -m "final try"add .[Kpush origin mastercommit -m "final try"add .[Kpush origin mastercommit -m "final try"add .[Kpush origin masteradd .[Kpush origin mastercommit -m "final try"add .[Kpush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "final try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ppush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "first try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K[4Pls -a
+[0m[01;34m.[0m   config.toml  [01;34m.git[0m        index.Rmd  [01;34m.Rproj.user[0m  [01;34mthemes[0m
+[01;34m..[0m  [01;34mcontent[0m      .gitignore  [01;34mpublic[0m     [01;34mstatic[0m       website_daniela.Rproj
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ ls -a[Kgit push origin mastercommit -m "final try"add .[Kpush origin mastercommit -m "final try"add .[Kpush origin mastercommit -m "final try"add .[Kpush origin masteradd .[Kpush origin mastercommit -m "final try"add .[Kpush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "final try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ppush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "first try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K[4Pls -agit add .
