@@ -230,3 +230,41 @@ fatal: Authentication failed for 'https://github.com/danivelac/website_daniela.g
 ]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "final try"
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Ppush origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "first try"
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git add .push origin masterremote add origin https://github.com/danivelac/website_danniela.git[A]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ [C[C[C[C[36Pcommit -m "final try"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[master 077ccdd] final try
+ Committer: Daniela Vela <dcv396@educcomp01.ccbb.utexas.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 42 files changed, 600 insertions(+), 80 deletions(-)
+ rewrite .Rproj.user/BA1B4BD/console06/3737ACAC (100%)
+ rewrite .Rproj.user/BA1B4BD/console06/INDEX001 (100%)
+ delete mode 100644 .Rproj.user/BA1B4BD/sources/s-d7ef6cb8/9F647A67
+ rewrite .Rproj.user/shared/notebooks/BE37402C-2020-05-18-my-new-post/1/BA1B4BDd7ef6cb8/chunks.json (100%)
+ rewrite .Rproj.user/shared/notebooks/BE37402C-2020-05-18-my-new-post/1/s/chunks.json (100%)
+ create mode 100644 .gitignore
+ create mode 100644 content/blog/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 content/blog/2015-07-23-r-rmarkdown.html
+ delete mode 100644 static/blog/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git commit -m "final try"add .[Kpush origin master
+Username for 'https://github.com': danivelac
+Password for 'https://danivelac@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/danivelac/website_daniela.git/'
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin mastercommit -m "final try"add .[K
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git add .push origin master
+Username for 'https://github.com': ^[[A    danivelac
+Password for 'https://danivelac@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/danivelac/website_daniela.git/'
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin masteradd .[K
