@@ -268,3 +268,25 @@ Password for 'https://danivelac@github.com':
 remote: Invalid username or password.
 fatal: Authentication failed for 'https://github.com/danivelac/website_daniela.git/'
 ]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin masteradd .[K
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git add .push origin masteradd .[Kpush origin mastercommit -m "final try"
+[master 0e43fe1] final try
+ Committer: Daniela Vela <dcv396@educcomp01.ccbb.utexas.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 1 deletion(-)
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git commit -m "final try"add .[Kpush origin master
+Username for 'https://github.com': danivelac
+Password for 'https://danivelac@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/danivelac/website_daniela.git/'
+]0;/stor/home/dcv396/website_daniela]0;dcv396@educcomp01: ~/website_daniela[01;32mdcv396@educcomp01[00m:[01;34m~/website_daniela[00m$ git push origin mastercommit -m "final try"add .[K
